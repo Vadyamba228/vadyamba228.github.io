@@ -1,0 +1,2 @@
+# vadyamba.github.io
+хостинг
