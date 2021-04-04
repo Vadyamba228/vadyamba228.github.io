@@ -13,3 +13,6 @@ p {
 em {
     font-family: serif;
 }
+p.greentea {
+    color: green;
+}
